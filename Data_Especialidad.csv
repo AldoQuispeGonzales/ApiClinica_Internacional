@@ -1,0 +1,61 @@
+especialidad_id,nombre,descripcion,tipo
+1,Cardiología,Atención en Cardiología,Médica
+2,Pediatría,Atención en Pediatría,Médica
+3,Ginecología,Atención en Ginecología,Médica
+4,Dermatología,Atención en Dermatología,Diagnóstica
+5,Endocrinología,Atención en Endocrinología,Quirúrgica
+6,Gastroenterología,Atención en Gastroenterología,Médica
+7,Nefrología,Atención en Nefrología,Terapéutica
+8,Neurología,Atención en Neurología,Diagnóstica
+9,Oncología,Atención en Oncología,Quirúrgica
+10,Oftalmología,Atención en Oftalmología,Quirúrgica
+11,Otorrinolaringología,Atención en Otorrinolaringología,Quirúrgica
+12,Traumatología,Atención en Traumatología,Quirúrgica
+13,Urología,Atención en Urología,Médica
+14,Reumatología,Atención en Reumatología,Diagnóstica
+15,Psicología,Atención en Psicología,Quirúrgica
+16,Psiquiatría,Atención en Psiquiatría,Diagnóstica
+17,Medicina General,Atención en Medicina General,Médica
+18,Medicina Interna,Atención en Medicina Interna,Médica
+19,Cirugía General,Atención en Cirugía General,Terapéutica
+20,Cirugía Plástica,Atención en Cirugía Plástica,Quirúrgica
+21,Cirugía Cardiovascular,Atención en Cirugía Cardiovascular,Quirúrgica
+22,Cirugía Pediátrica,Atención en Cirugía Pediátrica,Médica
+23,Neumología,Atención en Neumología,Terapéutica
+24,Alergología,Atención en Alergología,Quirúrgica
+25,Nutrición,Atención en Nutrición,Quirúrgica
+26,Infectología,Atención en Infectología,Quirúrgica
+27,Fisioterapia,Atención en Fisioterapia,Diagnóstica
+28,Odontología,Atención en Odontología,Diagnóstica
+29,Geriatría,Atención en Geriatría,Terapéutica
+30,Hematología,Atención en Hematología,Quirúrgica
+31,Especialidad 31,Atención en Especialidad 31,Terapéutica
+32,Especialidad 32,Atención en Especialidad 32,Quirúrgica
+33,Especialidad 33,Atención en Especialidad 33,Médica
+34,Especialidad 34,Atención en Especialidad 34,Quirúrgica
+35,Especialidad 35,Atención en Especialidad 35,Quirúrgica
+36,Especialidad 36,Atención en Especialidad 36,Médica
+37,Especialidad 37,Atención en Especialidad 37,Médica
+38,Especialidad 38,Atención en Especialidad 38,Terapéutica
+39,Especialidad 39,Atención en Especialidad 39,Quirúrgica
+40,Especialidad 40,Atención en Especialidad 40,Médica
+41,Especialidad 41,Atención en Especialidad 41,Diagnóstica
+42,Especialidad 42,Atención en Especialidad 42,Terapéutica
+43,Especialidad 43,Atención en Especialidad 43,Terapéutica
+44,Especialidad 44,Atención en Especialidad 44,Terapéutica
+45,Especialidad 45,Atención en Especialidad 45,Terapéutica
+46,Especialidad 46,Atención en Especialidad 46,Terapéutica
+47,Especialidad 47,Atención en Especialidad 47,Diagnóstica
+48,Especialidad 48,Atención en Especialidad 48,Terapéutica
+49,Especialidad 49,Atención en Especialidad 49,Diagnóstica
+50,Especialidad 50,Atención en Especialidad 50,Terapéutica
+51,Especialidad 51,Atención en Especialidad 51,Quirúrgica
+52,Especialidad 52,Atención en Especialidad 52,Terapéutica
+53,Especialidad 53,Atención en Especialidad 53,Quirúrgica
+54,Especialidad 54,Atención en Especialidad 54,Médica
+55,Especialidad 55,Atención en Especialidad 55,Quirúrgica
+56,Especialidad 56,Atención en Especialidad 56,Médica
+57,Especialidad 57,Atención en Especialidad 57,Diagnóstica
+58,Especialidad 58,Atención en Especialidad 58,Diagnóstica
+59,Especialidad 59,Atención en Especialidad 59,Médica
+60,Especialidad 60,Atención en Especialidad 60,Terapéutica

@@ -1,0 +1,501 @@
+medico_id,nombre,especialidad,turno,estado,nro_colegiatura
+1,Anacleto Palacios Boix,Nutrición,Tarde,Inactivo,COL-58971
+2,Herminia Salgado Belmonte,Pediatría,Tarde,Inactivo,COL-36044
+3,Diana Teresa Cabello Tamayo,Especialidad 49,Mañana,Activo,COL-67086
+4,Teófila Blanca,Especialidad 50,Noche,Activo,COL-68974
+5,Miguel Álamo,Especialidad 56,Noche,Activo,COL-95075
+6,Javier Galiano Pinto,Especialidad 51,Tarde,Inactivo,COL-42046
+7,Remedios Ángel Cisneros,Oftalmología,Mañana,Activo,COL-67544
+8,Zoraida Susana Blanco Maestre,Medicina General,Tarde,Inactivo,COL-71125
+9,Candelaria Zapata Buendía,Especialidad 46,Tarde,Inactivo,COL-36829
+10,Régulo Ferrández,Hematología,Mañana,Inactivo,COL-16730
+11,Manolo Ramos Colom,Psiquiatría,Mañana,Activo,COL-48721
+12,Humberto Carballo Sanmiguel,Alergología,Mañana,Inactivo,COL-70960
+13,Loida del Arroyo,Especialidad 59,Tarde,Inactivo,COL-20239
+14,Primitivo Marí,Especialidad 39,Tarde,Inactivo,COL-77182
+15,Leocadia Farré Amaya,Especialidad 36,Tarde,Activo,COL-72843
+16,Jorge Briones Durán,Endocrinología,Tarde,Inactivo,COL-35359
+17,Bernardino Rosado Mir,Cirugía Plástica,Noche,Activo,COL-11449
+18,Nydia de Zamorano,Nefrología,Mañana,Inactivo,COL-17849
+19,Julián Reig Llamas,Pediatría,Noche,Activo,COL-92663
+20,Juan Antonio Quirós Prada,Especialidad 34,Tarde,Activo,COL-68767
+21,Ascensión Mur Reyes,Infectología,Tarde,Inactivo,COL-55472
+22,Adelaida Sanmartín Solís,Especialidad 40,Tarde,Inactivo,COL-58230
+23,Imelda Santamaría Lloret,Dermatología,Noche,Activo,COL-67461
+24,Haroldo Ibañez Doménech,Especialidad 49,Tarde,Inactivo,COL-77367
+25,Virgilio Ferrero Barros,Ginecología,Noche,Activo,COL-30097
+26,Aitor Alcántara Herranz,Especialidad 60,Tarde,Inactivo,COL-96588
+27,Jessica Beatriz Toledo Zamora,Especialidad 46,Tarde,Inactivo,COL-28868
+28,Candelario Esteban Palma,Oftalmología,Mañana,Activo,COL-90854
+29,Alma Calatayud Diego,Nutrición,Tarde,Inactivo,COL-38866
+30,Maribel Palomares Miranda,Ginecología,Mañana,Inactivo,COL-11587
+31,Cristóbal Medina,Oncología,Mañana,Inactivo,COL-84618
+32,Piedad Amaya Sanabria Cuenca,Urología,Tarde,Activo,COL-65956
+33,Margarita Moles Sabater,Especialidad 36,Noche,Inactivo,COL-37605
+34,Tristán Polo Galvez,Cardiología,Mañana,Activo,COL-14910
+35,Azeneth del Roma,Medicina General,Noche,Inactivo,COL-18662
+36,Ulises Gonzalez Llobet,Psicología,Tarde,Activo,COL-98160
+37,Alfonso Corbacho Moliner,Especialidad 32,Mañana,Activo,COL-97741
+38,Cintia Teruel Sandoval,Hematología,Tarde,Inactivo,COL-71463
+39,Maricruz Alcaraz,Medicina General,Noche,Inactivo,COL-92775
+40,Edelmiro Reina,Especialidad 43,Tarde,Activo,COL-97523
+41,Martin Aragón Sierra,Especialidad 44,Noche,Inactivo,COL-87837
+42,Lara Bartolomé Leiva,Especialidad 50,Mañana,Activo,COL-12913
+43,Javi Samper Arana,Odontología,Tarde,Inactivo,COL-53011
+44,Geraldo Clemente Montenegro,Especialidad 33,Tarde,Inactivo,COL-63046
+45,Pastora Guerra Capdevila,Dermatología,Noche,Inactivo,COL-43769
+46,Ceferino Cardona Feijoo,Nefrología,Mañana,Activo,COL-38698
+47,Ofelia Rosa María Torrens Lopez,Especialidad 57,Mañana,Inactivo,COL-30087
+48,Noelia Pavón Huerta,Especialidad 60,Mañana,Inactivo,COL-64086
+49,Diana Lucas Garcia,Especialidad 48,Tarde,Inactivo,COL-84261
+50,Roque Iniesta Borrego,Cirugía Pediátrica,Tarde,Activo,COL-41784
+51,Eloy Girona Barrios,Otorrinolaringología,Noche,Inactivo,COL-96885
+52,Jose Antonio Tomás Cadenas,Endocrinología,Tarde,Activo,COL-67098
+53,Ismael Pancho Arévalo Uría,Infectología,Tarde,Activo,COL-64293
+54,Raimundo Cárdenas Villena,Especialidad 31,Mañana,Inactivo,COL-58546
+55,Verónica Loreto Palomino Moll,Neurología,Tarde,Activo,COL-73769
+56,Merche Suárez Bartolomé,Especialidad 57,Tarde,Inactivo,COL-87125
+57,Leocadia Perea Quevedo,Reumatología,Tarde,Inactivo,COL-40816
+58,Sarita Valcárcel,Cirugía General,Mañana,Activo,COL-54054
+59,Ester Escrivá Roig,Otorrinolaringología,Noche,Inactivo,COL-87784
+60,Fortunata Vilalta Acero,Nutrición,Mañana,Activo,COL-20760
+61,Lalo de Pozuelo,Gastroenterología,Noche,Activo,COL-29666
+62,Arturo de Manzano,Especialidad 35,Tarde,Inactivo,COL-22099
+63,Silvia Valero Busquets,Especialidad 60,Noche,Activo,COL-16731
+64,Macarena Alcántara Oller,Cardiología,Tarde,Activo,COL-14284
+65,César Peinado Aguilar,Oncología,Tarde,Inactivo,COL-98963
+66,Natalio Sotelo Pozo,Especialidad 44,Noche,Inactivo,COL-97301
+67,Duilio de Barberá,Especialidad 37,Mañana,Activo,COL-31655
+68,Victorino Ramos-Laguna,Especialidad 58,Tarde,Inactivo,COL-23103
+69,Alex Martinez Carpio,Ginecología,Noche,Activo,COL-15179
+70,Fidela Ojeda-Vila,Especialidad 40,Mañana,Activo,COL-32273
+71,Adelaida Ferrero Peñalver,Especialidad 58,Tarde,Inactivo,COL-24095
+72,María José de Juárez,Medicina Interna,Noche,Inactivo,COL-90666
+73,Evangelina Criado,Especialidad 54,Noche,Activo,COL-90312
+74,Pascuala Vélez Pinto,Cirugía General,Mañana,Activo,COL-70599
+75,Jacinta Palomar,Especialidad 39,Tarde,Activo,COL-94340
+76,Susana Sabater Roig,Especialidad 50,Noche,Activo,COL-75066
+77,Cecilia Rita Sanmartín Quintero,Especialidad 39,Mañana,Inactivo,COL-14198
+78,Marcio Colom-Galan,Infectología,Tarde,Activo,COL-71952
+79,Paca Frutos-Aroca,Especialidad 52,Tarde,Inactivo,COL-76699
+80,Fausto de Gracia,Cirugía Plástica,Tarde,Inactivo,COL-64784
+81,Carlos Mir-Díaz,Especialidad 52,Mañana,Inactivo,COL-97327
+82,Andrea Francisca Perelló Bonilla,Cirugía Cardiovascular,Mañana,Activo,COL-70461
+83,Benjamín Tamayo Rojas,Oftalmología,Noche,Activo,COL-14823
+84,Etelvina Simó Arrieta,Gastroenterología,Mañana,Activo,COL-29356
+85,Abilio Agudo,Nefrología,Tarde,Activo,COL-29572
+86,Eloísa Estévez Reina,Especialidad 47,Mañana,Inactivo,COL-53611
+87,Jovita Blanca Real,Especialidad 45,Tarde,Activo,COL-73123
+88,Diana Roig Moll,Odontología,Tarde,Activo,COL-94451
+89,Vicenta Montoya Rodriguez,Especialidad 43,Noche,Inactivo,COL-37495
+90,Rolando de Chamorro,Especialidad 58,Tarde,Activo,COL-57737
+91,Luisina Nuñez Baena,Otorrinolaringología,Tarde,Activo,COL-55231
+92,Calisto Gutiérrez Gracia,Endocrinología,Mañana,Activo,COL-43053
+93,Jordana Pinto Ruano,Nutrición,Mañana,Inactivo,COL-70752
+94,Mateo Mora Carbajo,Especialidad 43,Tarde,Inactivo,COL-68931
+95,Natividad Nogués Alcaraz,Oncología,Tarde,Inactivo,COL-96298
+96,Cornelio Gerardo Torrent Hoyos,Cirugía Cardiovascular,Noche,Activo,COL-10975
+97,Flavio Morata Cerdá,Especialidad 56,Mañana,Inactivo,COL-64499
+98,Hortensia Cervera Gelabert,Gastroenterología,Tarde,Inactivo,COL-29420
+99,Ulises Valenzuela Solano,Ginecología,Mañana,Activo,COL-77211
+100,Luciano Manuel Valle,Especialidad 39,Tarde,Inactivo,COL-36510
+101,Luz Abella Villegas,Especialidad 47,Mañana,Inactivo,COL-15039
+102,Manola Arco Piñol,Especialidad 50,Mañana,Inactivo,COL-54952
+103,Tomasa Luís Izaguirre,Especialidad 52,Noche,Inactivo,COL-54194
+104,Modesto Fulgencio Barrera Palmer,Cardiología,Mañana,Inactivo,COL-75677
+105,Adoración Duque,Urología,Mañana,Activo,COL-53583
+106,Nélida del Pereira,Especialidad 44,Noche,Inactivo,COL-79582
+107,Amalia Marco,Infectología,Noche,Activo,COL-67008
+108,Marcia Reyna Calderon Millán,Especialidad 50,Noche,Activo,COL-69631
+109,Julio César Comas Maldonado,Especialidad 47,Noche,Inactivo,COL-80620
+110,Gabriela Carretero,Especialidad 49,Tarde,Activo,COL-47288
+111,Prudencio Ramis Mosquera,Cirugía Pediátrica,Mañana,Inactivo,COL-87243
+112,Javi Mateos Villar,Especialidad 41,Mañana,Inactivo,COL-64689
+113,Custodia Marin Conesa,Especialidad 60,Tarde,Activo,COL-51311
+114,Carmelita Arce,Especialidad 54,Noche,Activo,COL-68886
+115,Perlita Leon-Portero,Medicina General,Tarde,Activo,COL-40077
+116,Gregorio Llorens Quiroga,Especialidad 43,Noche,Inactivo,COL-61748
+117,Azahar Bustamante Cortina,Medicina General,Mañana,Activo,COL-15314
+118,Telmo Beltran,Psicología,Tarde,Activo,COL-62032
+119,Teodoro Cortina-Cañellas,Cardiología,Tarde,Activo,COL-19975
+120,Custodio Raya Zamorano,Especialidad 52,Tarde,Inactivo,COL-12142
+121,Amelia Enríquez-Feliu,Especialidad 33,Noche,Inactivo,COL-88675
+122,Pascuala Plaza-Montes,Especialidad 43,Mañana,Inactivo,COL-86044
+123,Moreno Perelló Hervia,Reumatología,Noche,Inactivo,COL-25187
+124,Ruy Barral Acero,Especialidad 55,Mañana,Inactivo,COL-83499
+125,Remigio de Roldán,Especialidad 47,Tarde,Activo,COL-81442
+126,Ignacio Morales Maza,Especialidad 42,Mañana,Activo,COL-99795
+127,Cayetano Lorenzo Gual,Odontología,Mañana,Inactivo,COL-94783
+128,Azeneth Mir-Pinedo,Psiquiatría,Tarde,Activo,COL-23036
+129,Jose Ignacio Franco Manrique,Oncología,Noche,Inactivo,COL-32154
+130,Adelina Guardiola,Especialidad 43,Tarde,Inactivo,COL-64470
+131,Atilio Acuña Pagès,Otorrinolaringología,Tarde,Activo,COL-31483
+132,Marcia García Barrios,Alergología,Mañana,Inactivo,COL-50565
+133,Adelia Nereida Hernández Rey,Especialidad 35,Noche,Activo,COL-19991
+134,Genoveva Cañellas Cerro,Oftalmología,Mañana,Activo,COL-41398
+135,Eladio Torrent-Guerrero,Endocrinología,Tarde,Activo,COL-24859
+136,Alejo Roda Martínez,Especialidad 49,Tarde,Inactivo,COL-25917
+137,Desiderio Manuel Jáuregui,Especialidad 33,Noche,Inactivo,COL-76948
+138,Celia Cerro Solé,Neurología,Tarde,Inactivo,COL-20914
+139,Isaías Izquierdo Maldonado,Neumología,Mañana,Inactivo,COL-33120
+140,Inmaculada Luque Angulo,Nutrición,Mañana,Inactivo,COL-12389
+141,Hilda Ferrández Baeza,Especialidad 59,Noche,Activo,COL-18314
+142,Gregorio Valerio Casanovas Pombo,Otorrinolaringología,Mañana,Inactivo,COL-31016
+143,Juan Antonio Tello Esteve,Especialidad 34,Noche,Activo,COL-72742
+144,Pilar de Riba,Especialidad 60,Noche,Inactivo,COL-13904
+145,Purificación Real,Cirugía Pediátrica,Tarde,Inactivo,COL-23575
+146,Nereida Candelaria Tomás Rivas,Especialidad 52,Noche,Inactivo,COL-37834
+147,Anacleto Barrios Marcos,Otorrinolaringología,Mañana,Inactivo,COL-86854
+148,Marianela Vendrell Amigó,Especialidad 48,Noche,Activo,COL-39720
+149,Cristina del Valdés,Especialidad 54,Noche,Inactivo,COL-83067
+150,Paula Bermúdez Benitez,Especialidad 50,Tarde,Inactivo,COL-52233
+151,Alberto Marí Torrents,Especialidad 42,Tarde,Activo,COL-15500
+152,Dorita Botella Oliva,Ginecología,Tarde,Activo,COL-10487
+153,Emigdio Figuerola,Especialidad 37,Tarde,Activo,COL-97107
+154,Abraham Lladó Tirado,Especialidad 60,Tarde,Inactivo,COL-64464
+155,Ileana del Llopis,Especialidad 48,Mañana,Inactivo,COL-70749
+156,Adora Paz Uría Puerta,Gastroenterología,Mañana,Activo,COL-87941
+157,Catalina Rincón-Colom,Especialidad 34,Noche,Activo,COL-87710
+158,Adelina Salom Ros,Oncología,Tarde,Inactivo,COL-82559
+159,María Jesús Coral Perelló Tormo,Especialidad 36,Noche,Inactivo,COL-25696
+160,Josefina Cerezo Caballero,Especialidad 40,Mañana,Inactivo,COL-42248
+161,Hilario Gimeno Haro,Cirugía Plástica,Noche,Inactivo,COL-48463
+162,Flor Soledad Royo Asensio,Ginecología,Mañana,Activo,COL-49348
+163,Dorita Ugarte Palomo,Especialidad 43,Mañana,Inactivo,COL-59752
+164,Sebastian Acevedo Portillo,Oftalmología,Tarde,Inactivo,COL-64005
+165,Ruy Calleja,Endocrinología,Noche,Inactivo,COL-19845
+166,Melchor Llamas Gil,Especialidad 32,Tarde,Inactivo,COL-63329
+167,Remigio Borrás Tirado,Pediatría,Mañana,Inactivo,COL-52959
+168,Florentina León Múgica,Traumatología,Noche,Activo,COL-28012
+169,Nazario Portero Gisbert,Especialidad 60,Noche,Activo,COL-57517
+170,Primitiva Armas,Neurología,Mañana,Inactivo,COL-53749
+171,Modesto Milla Galan,Cirugía Cardiovascular,Mañana,Activo,COL-85551
+172,Sofía Salvador Reina,Reumatología,Noche,Activo,COL-40345
+173,Nicolás Montaña,Dermatología,Tarde,Inactivo,COL-82116
+174,Lázaro Barrio Criado,Especialidad 49,Noche,Activo,COL-81950
+175,Fabricio Pallarès Almansa,Especialidad 60,Noche,Inactivo,COL-82399
+176,Maribel Román Llamas,Especialidad 43,Tarde,Activo,COL-62907
+177,Beatriz Asunción Casado Ripoll,Especialidad 49,Mañana,Inactivo,COL-65072
+178,Perlita Ferreras,Gastroenterología,Noche,Inactivo,COL-45264
+179,Ricardo Jimenez Villanueva,Especialidad 48,Mañana,Activo,COL-19010
+180,Modesto Santana Godoy,Nefrología,Noche,Activo,COL-24002
+181,Alcides Alsina,Especialidad 58,Tarde,Activo,COL-71502
+182,Ezequiel Huerta Mendizábal,Especialidad 52,Tarde,Inactivo,COL-81036
+183,Dafne Castilla Molins,Nefrología,Tarde,Activo,COL-87444
+184,Rubén Almeida Cantero,Especialidad 36,Mañana,Activo,COL-53786
+185,Amancio Carranza Torrent,Otorrinolaringología,Mañana,Activo,COL-92685
+186,Juan Mateos Belmonte,Especialidad 52,Mañana,Inactivo,COL-38628
+187,Yaiza Arnau Priego,Especialidad 47,Noche,Activo,COL-32199
+188,Catalina Paz,Especialidad 48,Noche,Activo,COL-63465
+189,Amancio de Segovia,Cardiología,Noche,Inactivo,COL-85588
+190,Amparo Eva Juan Alcalá,Especialidad 51,Noche,Activo,COL-74572
+191,Juan Luis Comas Mulet,Especialidad 36,Mañana,Activo,COL-66324
+192,Cloe Jódar Lluch,Reumatología,Noche,Inactivo,COL-35227
+193,Olga Bello Ibañez,Especialidad 53,Noche,Inactivo,COL-55123
+194,Aristides Jordán-Perelló,Oncología,Tarde,Inactivo,COL-85803
+195,Claudia Pilar Sanmartín Narváez,Cirugía General,Tarde,Activo,COL-90790
+196,Margarita Losa Llopis,Especialidad 55,Mañana,Inactivo,COL-43423
+197,Diana Llano Colom,Especialidad 42,Noche,Inactivo,COL-10190
+198,Adora Castejón Sarabia,Neurología,Tarde,Activo,COL-43152
+199,Caridad Verdugo Tomé,Especialidad 45,Mañana,Activo,COL-93993
+200,Teresa Jove Julián,Especialidad 38,Mañana,Activo,COL-27360
+201,Quique Perelló-Duran,Especialidad 46,Mañana,Activo,COL-42767
+202,Inés Saura Galán,Especialidad 48,Mañana,Activo,COL-99662
+203,Ofelia Pintor Andres,Infectología,Mañana,Activo,COL-46247
+204,Nieves Macarena Rebollo Bartolomé,Neurología,Noche,Activo,COL-95439
+205,Visitación Cárdenas Llano,Reumatología,Noche,Activo,COL-11803
+206,Clemente Múgica Casas,Fisioterapia,Mañana,Inactivo,COL-37044
+207,Lucas Perelló Segura,Geriatría,Mañana,Activo,COL-94929
+208,Andrés Mármol,Especialidad 51,Mañana,Inactivo,COL-52613
+209,Néstor Guillermo Pont Romero,Fisioterapia,Tarde,Inactivo,COL-68118
+210,Noé Andrade Goicoechea,Especialidad 43,Mañana,Activo,COL-37103
+211,Perlita Nicolás Arnal,Nutrición,Tarde,Activo,COL-97275
+212,Lupita Luque-Mur,Especialidad 55,Noche,Activo,COL-74213
+213,Herminio Lloret,Especialidad 32,Tarde,Inactivo,COL-16413
+214,Lope Quintana Aznar,Medicina General,Mañana,Inactivo,COL-70762
+215,Samu Torrijos Pagès,Otorrinolaringología,Mañana,Activo,COL-70128
+216,Joel Costa Cáceres,Especialidad 34,Tarde,Activo,COL-64185
+217,Vicente Goicoechea Estrada,Neurología,Tarde,Activo,COL-47151
+218,Alejo Vallejo Baquero,Medicina Interna,Mañana,Inactivo,COL-11804
+219,Celestina Riba Puig,Especialidad 31,Noche,Activo,COL-86871
+220,Dimas Nacio Santana Barba,Hematología,Tarde,Inactivo,COL-94443
+221,José Mari Piquer Villegas,Psicología,Tarde,Activo,COL-46125
+222,Gabriela Manjón Barral,Especialidad 54,Tarde,Inactivo,COL-45342
+223,Ainara Maza,Otorrinolaringología,Tarde,Activo,COL-67426
+224,Herminio Sans Fiol,Especialidad 58,Mañana,Activo,COL-40726
+225,Lucio Trujillo Miranda,Especialidad 42,Tarde,Inactivo,COL-38688
+226,Josep Nogués-Aliaga,Especialidad 36,Noche,Activo,COL-24394
+227,Fernando Tapia Rueda,Medicina Interna,Noche,Inactivo,COL-78423
+228,Azucena Gelabert Bernat,Medicina General,Noche,Activo,COL-45626
+229,Nerea Sacristán-Tejada,Especialidad 56,Noche,Inactivo,COL-62915
+230,Alex Román Monreal,Pediatría,Mañana,Activo,COL-41617
+231,Anastasio de Marti,Especialidad 58,Tarde,Inactivo,COL-42020
+232,Valero Riera Ferrero,Especialidad 49,Noche,Activo,COL-92250
+233,Miriam Pardo Pablo,Especialidad 32,Noche,Activo,COL-29542
+234,Vilma Pina Castro,Pediatría,Tarde,Inactivo,COL-84442
+235,Chuy Zurita-Tejada,Cirugía Pediátrica,Mañana,Inactivo,COL-35351
+236,Haydée Carrión-Figuerola,Traumatología,Mañana,Inactivo,COL-65685
+237,Evaristo Ferrera Abascal,Medicina General,Noche,Inactivo,COL-86833
+238,Concha Gabriela Bauzà Teruel,Urología,Noche,Inactivo,COL-97796
+239,Santiago Modesto Calvet Lluch,Especialidad 54,Noche,Inactivo,COL-22594
+240,Yésica Quevedo Páez,Nutrición,Tarde,Activo,COL-42097
+241,Teófila de Doménech,Cirugía Cardiovascular,Mañana,Inactivo,COL-56777
+242,Manuela Martinez Rodriguez,Especialidad 31,Mañana,Inactivo,COL-74638
+243,Josep Gálvez,Psicología,Tarde,Activo,COL-19996
+244,Anunciación Sanabria Perera,Nefrología,Noche,Activo,COL-40317
+245,Gabriela Eloísa Velasco Moreno,Fisioterapia,Mañana,Activo,COL-71221
+246,Paca Costa,Fisioterapia,Noche,Activo,COL-23449
+247,Fortunata Pinedo,Especialidad 44,Noche,Inactivo,COL-27789
+248,Álvaro Espejo-Múgica,Psicología,Noche,Activo,COL-38635
+249,Maxi Rios Campillo,Alergología,Mañana,Activo,COL-43614
+250,Odalys Jerez Rueda,Cardiología,Noche,Inactivo,COL-25765
+251,Luís Matas Cañas,Medicina Interna,Noche,Inactivo,COL-37405
+252,Pili de Olivera,Gastroenterología,Tarde,Activo,COL-90186
+253,Melchor Carretero Tapia,Neurología,Mañana,Inactivo,COL-88423
+254,Carolina Perez Guillen,Especialidad 35,Noche,Activo,COL-15789
+255,Maximino Bernat-Vicens,Especialidad 31,Noche,Inactivo,COL-80919
+256,Aroa Donoso Redondo,Otorrinolaringología,Noche,Activo,COL-74166
+257,Eulalia Álvarez-Castilla,Especialidad 53,Mañana,Inactivo,COL-53351
+258,Bibiana Luz Prado,Nefrología,Mañana,Activo,COL-85454
+259,Martin Fuente,Medicina Interna,Mañana,Inactivo,COL-55738
+260,Flor Godoy Yáñez,Especialidad 60,Tarde,Inactivo,COL-82913
+261,Nazario Hoyos,Especialidad 45,Mañana,Activo,COL-22780
+262,Heriberto Bernad-Figuerola,Especialidad 41,Noche,Activo,COL-97464
+263,Charo Jáuregui Gordillo,Medicina Interna,Mañana,Activo,COL-30572
+264,Eusebia Matas Llano,Psicología,Noche,Activo,COL-33513
+265,Leire Rocha Sarabia,Urología,Mañana,Activo,COL-27383
+266,Berto Pellicer Padilla,Cirugía General,Tarde,Activo,COL-96725
+267,Ruth Arnaiz Chamorro,Geriatría,Mañana,Activo,COL-14127
+268,Angelino Milla Llabrés,Neurología,Noche,Activo,COL-58056
+269,Rosa del Maldonado,Especialidad 41,Tarde,Inactivo,COL-30175
+270,Rogelio Venceslás Lobo Santamaria,Especialidad 45,Mañana,Activo,COL-72092
+271,Onofre Valera-Gallart,Nutrición,Mañana,Activo,COL-59091
+272,Jeremías Victor Ochoa Villalba,Ginecología,Noche,Activo,COL-99710
+273,Tecla Jaume Castejón,Especialidad 54,Tarde,Activo,COL-21118
+274,Heliodoro Armas,Especialidad 49,Mañana,Activo,COL-19596
+275,Rosario Izaguirre,Oftalmología,Tarde,Activo,COL-66966
+276,Adelina Clara Cerro Vila,Psicología,Noche,Activo,COL-44883
+277,Eligio Ariño Fernández,Especialidad 46,Noche,Inactivo,COL-69382
+278,Encarnita Tello Urrutia,Otorrinolaringología,Noche,Activo,COL-68859
+279,Dan Lucena Montero,Odontología,Mañana,Inactivo,COL-46592
+280,Estrella Serrano Guijarro,Cirugía Cardiovascular,Tarde,Activo,COL-12625
+281,Roberta del Donoso,Urología,Tarde,Inactivo,COL-59220
+282,Imelda del Carranza,Especialidad 50,Noche,Inactivo,COL-21930
+283,Eufemia Abascal Cuevas,Especialidad 56,Noche,Activo,COL-26617
+284,Cristian Rivas,Especialidad 58,Mañana,Activo,COL-79932
+285,Eulalia Gabriela Trujillo Aguiló,Especialidad 55,Mañana,Inactivo,COL-61721
+286,Fabricio del Gimeno,Especialidad 59,Noche,Activo,COL-16924
+287,Eladio Nieto Porta,Especialidad 34,Mañana,Activo,COL-26571
+288,Andrea Peral,Psiquiatría,Mañana,Activo,COL-41653
+289,Héctor Franco Maza,Especialidad 35,Noche,Activo,COL-54448
+290,Aitana Gimenez Arias,Especialidad 34,Noche,Activo,COL-44033
+291,Morena Pizarro Velázquez,Medicina General,Tarde,Activo,COL-33371
+292,América Malena Chacón Baeza,Ginecología,Tarde,Inactivo,COL-36909
+293,Candelaria Román Azorin,Oncología,Mañana,Activo,COL-77889
+294,Nayara Belén Bartolomé Garmendia,Oftalmología,Noche,Inactivo,COL-19363
+295,Sara de Salcedo,Odontología,Noche,Activo,COL-52184
+296,Purificación Tenorio,Hematología,Mañana,Inactivo,COL-54260
+297,Demetrio Navarrete Montaña,Pediatría,Mañana,Activo,COL-13581
+298,Román Páez-Mercader,Especialidad 50,Noche,Activo,COL-13977
+299,Tiburcio de Sans,Gastroenterología,Tarde,Activo,COL-93498
+300,Martin Fajardo Criado,Especialidad 38,Mañana,Activo,COL-34958
+301,Pancho del Macías,Especialidad 31,Mañana,Inactivo,COL-80651
+302,Carmina Julián Quintero,Especialidad 42,Tarde,Activo,COL-92686
+303,Toño de Cerezo,Especialidad 48,Noche,Activo,COL-29631
+304,María Pilar Méndez Giménez,Neumología,Tarde,Inactivo,COL-98103
+305,Hernando Blanch Zabala,Neurología,Noche,Inactivo,COL-48291
+306,Inés José Cañizares Verdejo,Medicina General,Mañana,Activo,COL-81535
+307,Tere Bello Vega,Especialidad 53,Mañana,Inactivo,COL-47641
+308,Javier del Redondo,Especialidad 32,Noche,Activo,COL-29736
+309,Yaiza del Coca,Traumatología,Tarde,Activo,COL-51171
+310,Aureliano Oller Madrid,Nutrición,Tarde,Activo,COL-76472
+311,María Dolores de Cánovas,Odontología,Tarde,Activo,COL-15786
+312,Ainara Natalia Menéndez Páez,Especialidad 39,Mañana,Activo,COL-96774
+313,Dorita Albina Ricart Alfaro,Medicina General,Mañana,Inactivo,COL-55265
+314,Manuela Soto-Larrañaga,Especialidad 41,Tarde,Activo,COL-57378
+315,Tomás Mateu Olivera,Especialidad 47,Noche,Inactivo,COL-79472
+316,Dani del Cabo,Oftalmología,Tarde,Inactivo,COL-83793
+317,Amador Solano-Barón,Neurología,Mañana,Inactivo,COL-29565
+318,Lupe Boada,Especialidad 52,Tarde,Activo,COL-52158
+319,Elías Tomé Suárez,Alergología,Noche,Activo,COL-57999
+320,Eugenia Luján,Cirugía Plástica,Mañana,Inactivo,COL-15488
+321,Anacleto Suárez Ponce,Especialidad 36,Noche,Activo,COL-91922
+322,Brígida Huerta,Especialidad 31,Mañana,Inactivo,COL-37252
+323,Aarón Porras Campos,Psiquiatría,Tarde,Inactivo,COL-91014
+324,María Carmen Tamayo-Noguera,Neumología,Mañana,Activo,COL-26484
+325,Eleuterio Bou Gelabert,Endocrinología,Mañana,Inactivo,COL-16158
+326,Fabricio Escribano-Ferrándiz,Especialidad 60,Mañana,Inactivo,COL-43136
+327,Samanta Luján Bermejo,Especialidad 54,Noche,Activo,COL-82848
+328,Tomás Amor Pardo Almeida,Especialidad 59,Noche,Activo,COL-44289
+329,Narcisa Cordero-Vera,Especialidad 41,Noche,Inactivo,COL-94381
+330,Maribel Lobo-Isern,Traumatología,Noche,Inactivo,COL-75332
+331,Herminio Pizarro,Especialidad 57,Mañana,Activo,COL-59556
+332,Paloma Gil Boix,Especialidad 46,Mañana,Activo,COL-62390
+333,Macarena del Zabala,Medicina Interna,Mañana,Activo,COL-98211
+334,Buenaventura Juan Antonio Chamorro Serra,Endocrinología,Mañana,Inactivo,COL-91143
+335,Diego Ribas-Belda,Especialidad 44,Tarde,Activo,COL-78383
+336,Rodolfo Moles,Especialidad 37,Noche,Inactivo,COL-63430
+337,Felicidad Reyes,Cirugía Plástica,Mañana,Activo,COL-41813
+338,Ruperta Nogueira,Especialidad 57,Tarde,Activo,COL-58268
+339,Eusebia Jara Cámara,Especialidad 47,Noche,Inactivo,COL-38032
+340,Socorro Paca Arnaiz Alsina,Nefrología,Tarde,Inactivo,COL-20769
+341,Jaime Atienza-Borrell,Hematología,Mañana,Inactivo,COL-48223
+342,Mayte Pujadas,Especialidad 41,Tarde,Activo,COL-56488
+343,Ámbar Estévez,Especialidad 49,Tarde,Inactivo,COL-15546
+344,Jose Carlos Nacho Hurtado Navarrete,Traumatología,Tarde,Activo,COL-98572
+345,Manola Martirio Torrens Paz,Alergología,Tarde,Activo,COL-48513
+346,Evangelina de Pina,Urología,Noche,Activo,COL-97643
+347,Áurea de Antúnez,Gastroenterología,Tarde,Inactivo,COL-50334
+348,Efraín Barco Bonilla,Fisioterapia,Tarde,Inactivo,COL-77237
+349,Heraclio Alonso Ramis,Especialidad 37,Noche,Activo,COL-39604
+350,Mariana Ballester Tejero,Especialidad 47,Mañana,Inactivo,COL-41646
+351,Florinda Blanes Cabrera,Especialidad 36,Noche,Activo,COL-46101
+352,Donato Blázquez,Cirugía Pediátrica,Noche,Activo,COL-71037
+353,Desiderio Tomás-Goñi,Especialidad 40,Noche,Activo,COL-98300
+354,Tiburcio Villar Goñi,Especialidad 45,Tarde,Activo,COL-47971
+355,Ani Rosselló,Especialidad 44,Noche,Activo,COL-48191
+356,Nazario Riera,Psiquiatría,Mañana,Activo,COL-37385
+357,Adalberto Zabaleta-Campo,Especialidad 49,Tarde,Activo,COL-78971
+358,Florina Soria-Girón,Medicina General,Noche,Inactivo,COL-26014
+359,Edu Arenas Blanca,Infectología,Noche,Activo,COL-28535
+360,Otilia Olivé Cabanillas,Especialidad 52,Mañana,Activo,COL-22396
+361,Graciana Calderon Lastra,Especialidad 46,Noche,Inactivo,COL-78971
+362,Florinda Bernarda Ariño Aliaga,Hematología,Noche,Activo,COL-81352
+363,Ezequiel Eladio Domínguez Ayuso,Dermatología,Noche,Activo,COL-41600
+364,Adriana Montoya Cueto,Especialidad 38,Mañana,Activo,COL-74563
+365,Luz Martina Belmonte Echevarría,Reumatología,Mañana,Inactivo,COL-94414
+366,Fabián Montero Solano,Cirugía Cardiovascular,Mañana,Activo,COL-63300
+367,Albert Lladó Gárate,Especialidad 55,Mañana,Activo,COL-20992
+368,Heliodoro Iglesia Tejada,Especialidad 59,Noche,Inactivo,COL-52918
+369,Alfredo Atienza-Checa,Nutrición,Mañana,Inactivo,COL-75625
+370,José Luis del Contreras,Especialidad 55,Tarde,Activo,COL-11398
+371,Armando Carrasco-Sancho,Especialidad 59,Mañana,Activo,COL-13482
+372,Fabián Coca Aroca,Especialidad 52,Mañana,Activo,COL-53855
+373,María Ángeles Anguita,Especialidad 50,Tarde,Activo,COL-82055
+374,Rosenda Peñas Tudela,Oncología,Noche,Activo,COL-42032
+375,Leire de Toro,Especialidad 45,Tarde,Inactivo,COL-71901
+376,Vito Andrés Ávila Segarra,Especialidad 41,Noche,Inactivo,COL-44588
+377,Natalio Cortina,Especialidad 47,Tarde,Activo,COL-64461
+378,Gloria Iriarte,Especialidad 59,Mañana,Activo,COL-61348
+379,Maricela del Priego,Alergología,Noche,Inactivo,COL-27553
+380,Lucio Duarte,Especialidad 57,Mañana,Activo,COL-50793
+381,Marisa Flores Berrocal,Especialidad 39,Mañana,Activo,COL-78938
+382,Teobaldo Ballesteros,Especialidad 41,Noche,Inactivo,COL-24267
+383,Juana del Alba,Especialidad 35,Tarde,Activo,COL-40323
+384,León Gaya Gomila,Infectología,Noche,Inactivo,COL-54951
+385,Joel Santana,Especialidad 54,Mañana,Activo,COL-63382
+386,Maximino Garcia-Mínguez,Urología,Mañana,Activo,COL-38257
+387,Javi Feliciano Tomas Aznar,Especialidad 39,Noche,Activo,COL-19633
+388,Rufina Lago Peñas,Psiquiatría,Tarde,Inactivo,COL-53934
+389,Sebastian Esparza Neira,Cirugía Pediátrica,Tarde,Activo,COL-22088
+390,Miguela Córdoba Pedrosa,Medicina General,Mañana,Inactivo,COL-27046
+391,Jerónimo Fuente Vilalta,Especialidad 34,Noche,Inactivo,COL-15616
+392,Paulina Millán-Prado,Especialidad 54,Tarde,Activo,COL-54235
+393,Onofre Berto Agudo Amaya,Psiquiatría,Tarde,Inactivo,COL-66186
+394,Matías Mas-Expósito,Odontología,Noche,Activo,COL-78070
+395,Perlita Mendoza Figueras,Especialidad 45,Mañana,Activo,COL-26880
+396,Francisco Jose Frías Gallo,Odontología,Mañana,Activo,COL-35288
+397,Clementina Saez Arnaiz,Especialidad 56,Mañana,Activo,COL-57359
+398,Susanita Losa Vila,Nutrición,Tarde,Activo,COL-13574
+399,Ofelia Bertrán,Nutrición,Mañana,Inactivo,COL-19526
+400,Francisco Javier Somoza,Cirugía Cardiovascular,Noche,Activo,COL-23100
+401,Amaya Sotelo Mur,Traumatología,Mañana,Inactivo,COL-54634
+402,Adoración Bermudez Nogueira,Neumología,Mañana,Inactivo,COL-76725
+403,Ale Adán Rodrigo,Especialidad 36,Mañana,Inactivo,COL-84978
+404,Anastasio Casals Becerra,Nefrología,Tarde,Inactivo,COL-65636
+405,Herminia Delgado Alegria,Especialidad 49,Noche,Activo,COL-91419
+406,Rosa Botella Flor,Reumatología,Noche,Inactivo,COL-48063
+407,Heliodoro Ballesteros Casado,Especialidad 48,Mañana,Activo,COL-41732
+408,Mariana Vallejo Villalonga,Cirugía Plástica,Noche,Activo,COL-79181
+409,Lino Aranda-Conde,Geriatría,Mañana,Inactivo,COL-49117
+410,María Dolores Camps,Psiquiatría,Tarde,Activo,COL-63406
+411,Jessica Salvador Castell,Ginecología,Mañana,Activo,COL-94559
+412,Marianela Landa Roldan,Alergología,Noche,Activo,COL-16999
+413,Ramón Aranda Ureña,Nefrología,Noche,Inactivo,COL-69183
+414,Paz Vera,Especialidad 45,Noche,Activo,COL-89387
+415,Crescencia Marin Requena,Especialidad 53,Mañana,Inactivo,COL-83985
+416,Jesús Jiménez Guerra,Especialidad 38,Noche,Activo,COL-47925
+417,Rodrigo de Blanch,Cirugía General,Noche,Activo,COL-12067
+418,Evita Mercader Haro,Especialidad 46,Tarde,Inactivo,COL-86401
+419,Josué Tamarit,Especialidad 52,Mañana,Inactivo,COL-88361
+420,Maximino Montalbán,Especialidad 46,Noche,Inactivo,COL-91852
+421,Sonia Mosquera,Especialidad 37,Tarde,Inactivo,COL-82443
+422,Aránzazu Martirio Narváez Zabala,Especialidad 42,Noche,Inactivo,COL-21751
+423,Susana Rivera Marti,Especialidad 57,Noche,Inactivo,COL-29029
+424,Flora Díaz Vazquez,Especialidad 35,Tarde,Inactivo,COL-93463
+425,Clotilde Rincón-Blanes,Especialidad 37,Mañana,Activo,COL-53300
+426,Óscar Raimundo Cabezas Acosta,Especialidad 37,Mañana,Inactivo,COL-12788
+427,José Manso-Larrañaga,Especialidad 50,Noche,Inactivo,COL-84643
+428,Berta de Pinilla,Especialidad 40,Mañana,Activo,COL-34952
+429,Emigdio de Mendizábal,Nefrología,Mañana,Activo,COL-48591
+430,Clara del Hervia,Especialidad 50,Mañana,Inactivo,COL-62980
+431,Fernando Leon Duran,Especialidad 37,Noche,Activo,COL-63453
+432,Mayte Cordero Lluch,Especialidad 40,Noche,Activo,COL-83126
+433,Áurea Carnero Palau,Especialidad 31,Mañana,Inactivo,COL-93917
+434,Lorenzo Valverde Nuñez,Neurología,Tarde,Inactivo,COL-14000
+435,Laura Coronado Álvarez,Especialidad 42,Tarde,Activo,COL-38299
+436,Elías Caparrós Delgado,Cirugía Plástica,Noche,Activo,COL-78156
+437,Quique Hipólito Murillo Perera,Especialidad 39,Mañana,Inactivo,COL-97837
+438,Eric Heliodoro Berrocal Morillo,Especialidad 43,Noche,Inactivo,COL-95221
+439,Adelia Viana Luna,Psiquiatría,Noche,Activo,COL-96148
+440,María de Cuadrado,Especialidad 58,Noche,Activo,COL-47316
+441,Saturnino Cabrero Mármol,Especialidad 53,Mañana,Inactivo,COL-63408
+442,Carmina Iñiguez-Barroso,Especialidad 57,Noche,Activo,COL-28672
+443,Flora Emma Villanueva Benito,Especialidad 58,Noche,Inactivo,COL-54740
+444,Ramona Jimenez-Sarmiento,Pediatría,Noche,Activo,COL-63245
+445,Aureliano Iborra Escobar,Especialidad 38,Tarde,Activo,COL-66904
+446,María Fernanda Oliva Pastor,Especialidad 43,Tarde,Activo,COL-82170
+447,Yaiza Vara,Nutrición,Noche,Inactivo,COL-55182
+448,Merche Mate-Baeza,Fisioterapia,Noche,Activo,COL-38394
+449,Victor Sanz-Roldan,Cardiología,Noche,Inactivo,COL-65830
+450,Consuelo Cueto Lobato,Nefrología,Noche,Activo,COL-34941
+451,Ruperto Huguet-Haro,Especialidad 52,Noche,Inactivo,COL-84908
+452,Esteban Botella,Cirugía Pediátrica,Mañana,Inactivo,COL-35171
+453,Severo Palomares Durán,Especialidad 50,Tarde,Inactivo,COL-80971
+454,Ciriaco Rios Pont,Oftalmología,Mañana,Inactivo,COL-76719
+455,Victor Menéndez Campoy,Medicina Interna,Noche,Activo,COL-13860
+456,Patricio Jose Antonio Palau Alegre,Especialidad 54,Mañana,Inactivo,COL-39325
+457,Martirio del Perez,Cardiología,Mañana,Inactivo,COL-88694
+458,Custodio Vergara Expósito,Infectología,Tarde,Activo,COL-17228
+459,Moisés Correa Lorenzo,Neurología,Tarde,Activo,COL-19837
+460,Clara Bayón,Gastroenterología,Noche,Activo,COL-90201
+461,Fabiola Luz Baquero,Cirugía Pediátrica,Mañana,Activo,COL-18679
+462,Gracia Barrios Vigil,Nutrición,Noche,Activo,COL-90224
+463,Victor Coll Blasco,Especialidad 42,Tarde,Activo,COL-48408
+464,Ema Valverde Medina,Especialidad 41,Noche,Activo,COL-52125
+465,Pilar Rubio Nicolás,Dermatología,Tarde,Inactivo,COL-33224
+466,Anunciación Nogués,Especialidad 56,Noche,Activo,COL-86344
+467,Herminia Crespi-Piñol,Geriatría,Noche,Inactivo,COL-92179
+468,Marco Palau Jaume,Oftalmología,Mañana,Inactivo,COL-38902
+469,Rosario Pol-Mínguez,Especialidad 41,Tarde,Inactivo,COL-12204
+470,Elisa de Uribe,Especialidad 58,Tarde,Inactivo,COL-68024
+471,Josefa Otero Marqués,Especialidad 39,Tarde,Inactivo,COL-31274
+472,Débora Pi,Dermatología,Noche,Inactivo,COL-28314
+473,Marcos Benavides-Valenzuela,Especialidad 47,Tarde,Inactivo,COL-98000
+474,Fátima Pareja Tomás,Oncología,Noche,Activo,COL-55160
+475,Camilo Tomé Maza,Pediatría,Noche,Activo,COL-74499
+476,Reyna Arana,Especialidad 47,Noche,Inactivo,COL-60393
+477,Pánfilo Sevillano Llamas,Especialidad 60,Mañana,Activo,COL-84110
+478,Herminia Palacio,Especialidad 45,Noche,Activo,COL-44543
+479,Basilio Castelló Blanco,Pediatría,Tarde,Inactivo,COL-18802
+480,Nicodemo Murillo Sanmartín,Urología,Mañana,Activo,COL-69489
+481,Agustina Gargallo Mayo,Psicología,Mañana,Activo,COL-51182
+482,Tomás Pi Carrera,Neumología,Noche,Activo,COL-36557
+483,Asunción Montes Toro,Neumología,Tarde,Activo,COL-71235
+484,Emigdio Oliveras Cid,Especialidad 35,Mañana,Inactivo,COL-11394
+485,Teófila Cruz-Pablo,Reumatología,Mañana,Activo,COL-20301
+486,Felix Gisbert Cañas,Especialidad 39,Mañana,Activo,COL-59785
+487,Matilde Aura Blasco Peñas,Neurología,Mañana,Inactivo,COL-41191
+488,Adalberto Calderon Rosales,Especialidad 53,Noche,Inactivo,COL-27348
+489,Benjamín Lladó Frutos,Hematología,Tarde,Inactivo,COL-59280
+490,Estrella Mateu Chacón,Neurología,Mañana,Activo,COL-68653
+491,Martin Pombo-Nicolás,Endocrinología,Noche,Inactivo,COL-50251
+492,Alonso del Roda,Medicina General,Noche,Activo,COL-32111
+493,Octavia Fortuny Barragán,Especialidad 56,Noche,Inactivo,COL-16263
+494,Ismael Emilio Sebastián Rico,Oftalmología,Tarde,Inactivo,COL-76881
+495,Florina Maza Gárate,Ginecología,Mañana,Inactivo,COL-46096
+496,Marisa Lastra,Cirugía General,Mañana,Activo,COL-69210
+497,Rogelio Eusebio Diéguez Arce,Reumatología,Noche,Inactivo,COL-23318
+498,Darío Benavent Gibert,Infectología,Tarde,Activo,COL-28582
+499,Pelayo Gallardo-Ribes,Especialidad 58,Tarde,Inactivo,COL-97461
+500,Mateo Iriarte Rodrigo,Especialidad 33,Mañana,Activo,COL-19853

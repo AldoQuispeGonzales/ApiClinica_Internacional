@@ -1,0 +1,101 @@
+equipo_medico_id,nombre_equipo,tipo_equipo,estado_equipo,fabricante
+1,Rayos X 1,Diagnóstico,En mantenimiento,Familia Rivero S.L.
+2,Ecógrafo 2,Quirúrgico,Operativo,Arévalo y asociados S.A.
+3,Rayos X 3,Quirúrgico,En mantenimiento,Barba & Asociados S.Com.
+4,Ecógrafo 4,Quirúrgico,En mantenimiento,Miguel Ángel Porcel Salvà S.C.P
+5,Ecógrafo 5,Diagnóstico,Fuera de servicio,José Montenegro Echeverría S.C.P
+6,Monitor 6,Quirúrgico,Operativo,Supermercados WCF S.L.N.E
+7,Ecógrafo 7,Quirúrgico,Fuera de servicio,Manufacturas ZC S.L.N.E
+8,Monitor 8,Diagnóstico,En mantenimiento,Instalaciones Prada & Asociados S.L.
+9,Monitor 9,Diagnóstico,Fuera de servicio,Familia Nogueira S.Com.
+10,Ecógrafo 10,Quirúrgico,Fuera de servicio,Familia Benavides S.Com.
+11,Ecógrafo 11,Diagnóstico,Operativo,Transportes Aguilar y asociados S.Coop.
+12,Ecógrafo 12,Quirúrgico,Fuera de servicio,Suministros Anaya S.L.L.
+13,Rayos X 13,Diagnóstico,Operativo,Heras y asociados S.L.N.E
+14,Monitor 14,Quirúrgico,En mantenimiento,Tolosa & Asociados S.Coop.
+15,Monitor 15,Quirúrgico,En mantenimiento,Familia Pedrosa S.L.
+16,Monitor 16,Diagnóstico,En mantenimiento,Alimentación Iberia S.L.L.
+17,Rayos X 17,Diagnóstico,Operativo,Germán Mínguez Baena S.Coop.
+18,Monitor 18,Quirúrgico,En mantenimiento,Hotel Casals S.Coop.
+19,Ecógrafo 19,Diagnóstico,Operativo,Minería QAIH S.A.U
+20,Ecógrafo 20,Diagnóstico,Operativo,Restauración Sáenz S.L.
+21,Rayos X 21,Diagnóstico,En mantenimiento,Instalaciones Ibéricos S.Com.
+22,Monitor 22,Quirúrgico,En mantenimiento,Lozano y asociados S.L.U.
+23,Rayos X 23,Quirúrgico,Fuera de servicio,Hnos Morell S.Com.
+24,Rayos X 24,Diagnóstico,Fuera de servicio,Baró y Cámara S.Coop.
+25,Rayos X 25,Quirúrgico,En mantenimiento,Soluciones del Levante S.Coop.
+26,Ecógrafo 26,Diagnóstico,Operativo,Comercial Machado S.A.
+27,Rayos X 27,Diagnóstico,Fuera de servicio,Fábrica Cuenca S.Com.
+28,Ecógrafo 28,Quirúrgico,En mantenimiento,Lillo & Asociados S.L.N.E
+29,Ecógrafo 29,Quirúrgico,En mantenimiento,Tejada y asociados S.A.
+30,Rayos X 30,Diagnóstico,Fuera de servicio,Farmaceútica Nevado & Asociados S.L.N.E
+31,Rayos X 31,Diagnóstico,En mantenimiento,Claudia Martí Montoya S.L.N.E
+32,Ecógrafo 32,Quirúrgico,Fuera de servicio,Santiago Falcón Cuadrado S.L.
+33,Monitor 33,Diagnóstico,En mantenimiento,Melero y Hierro S.A.T.
+34,Ecógrafo 34,Quirúrgico,Fuera de servicio,Hermanos Cáceres S.C.P
+35,Monitor 35,Diagnóstico,Operativo,Finanzas Palau S.L.
+36,Ecógrafo 36,Diagnóstico,Fuera de servicio,Inversiones Ibéricos S.L.L.
+37,Rayos X 37,Diagnóstico,Fuera de servicio,Alimentación Inteligentes S.Com.
+38,Ecógrafo 38,Diagnóstico,Fuera de servicio,Suministros Amigó S.A.
+39,Monitor 39,Diagnóstico,Operativo,Abellán & Asociados S.Coop.
+40,Monitor 40,Diagnóstico,Fuera de servicio,Promociones Bayona & Asociados S.L.L.
+41,Rayos X 41,Quirúrgico,Operativo,Aguirre y Martínez S.A.
+42,Ecógrafo 42,Diagnóstico,Operativo,Gómez & Asociados S.A.
+43,Ecógrafo 43,Diagnóstico,En mantenimiento,Hermanos Beltran S.Coop.
+44,Monitor 44,Diagnóstico,En mantenimiento,Zabaleta y Tomás S.Com.
+45,Rayos X 45,Diagnóstico,Operativo,Infraestructuras Roldan S.Com.
+46,Monitor 46,Diagnóstico,Operativo,Talleres JL S.L.U.
+47,Ecógrafo 47,Quirúrgico,Fuera de servicio,Jerez & Asociados S.A.
+48,Rayos X 48,Diagnóstico,Fuera de servicio,Consultoría del Mediterráneo S.A.
+49,Rayos X 49,Quirúrgico,Fuera de servicio,Cardona y Pina S.A.
+50,Rayos X 50,Diagnóstico,Fuera de servicio,Logística ED S.Com.
+51,Monitor 51,Quirúrgico,En mantenimiento,Céspedes & Asociados S.Coop.
+52,Ecógrafo 52,Quirúrgico,Fuera de servicio,Comercial Casares S.C.P
+53,Rayos X 53,Quirúrgico,Fuera de servicio,Cases y Jiménez S.Coop.
+54,Ecógrafo 54,Quirúrgico,En mantenimiento,Molina & Asociados S.L.
+55,Ecógrafo 55,Diagnóstico,Fuera de servicio,Servicios Ibérica S.Com.
+56,Monitor 56,Diagnóstico,Operativo,Desarrollo del Levante S.L.
+57,Ecógrafo 57,Quirúrgico,Operativo,Castellanos y Riba S.A.
+58,Rayos X 58,Diagnóstico,En mantenimiento,Hnos Pujadas S.L.L.
+59,Monitor 59,Quirúrgico,En mantenimiento,Alimentación Toledo S.L.L.
+60,Ecógrafo 60,Diagnóstico,En mantenimiento,Suministros Vara & Asociados S.L.
+61,Ecógrafo 61,Diagnóstico,Fuera de servicio,Suministros JK S.Coop.
+62,Rayos X 62,Quirúrgico,Fuera de servicio,Hermanos Carrillo S.Coop.
+63,Ecógrafo 63,Diagnóstico,En mantenimiento,Consultoría SD S.L.
+64,Monitor 64,Diagnóstico,En mantenimiento,Corominas y asociados S.L.
+65,Ecógrafo 65,Quirúrgico,Fuera de servicio,Banca Privada Frías S.L.
+66,Monitor 66,Quirúrgico,En mantenimiento,Hnos Alcázar S.Coop.
+67,Rayos X 67,Quirúrgico,En mantenimiento,Jorge Sala Cámara S.L.
+68,Rayos X 68,Quirúrgico,Operativo,Grupo Múñiz S.Coop.
+69,Ecógrafo 69,Diagnóstico,Operativo,Talleres OZC S.L.
+70,Ecógrafo 70,Quirúrgico,En mantenimiento,Fábrica Peral y asociados S.L.
+71,Monitor 71,Quirúrgico,En mantenimiento,Construcción Lucas & Asociados S.C.P
+72,Ecógrafo 72,Quirúrgico,En mantenimiento,Rafa Asenjo Gonzalo S.Com.
+73,Rayos X 73,Diagnóstico,En mantenimiento,Instalaciones GO S.Com.
+74,Monitor 74,Diagnóstico,Operativo,Comercializadora LK S.A.U
+75,Rayos X 75,Quirúrgico,Operativo,Familia Portillo S.Com.
+76,Monitor 76,Diagnóstico,Fuera de servicio,Contreras y Posada S.Coop.
+77,Rayos X 77,Quirúrgico,Operativo,Hermanos Corral S.A.U
+78,Monitor 78,Quirúrgico,Fuera de servicio,Servicios Arana & Asociados S.A.
+79,Rayos X 79,Quirúrgico,En mantenimiento,Bernabé Sacristán Moreno S.Coop.
+80,Rayos X 80,Diagnóstico,Operativo,Ríos y asociados S.L.
+81,Monitor 81,Quirúrgico,Fuera de servicio,Restauración Calderon y asociados S.L.
+82,Monitor 82,Quirúrgico,En mantenimiento,Borrego & Asociados S.A.
+83,Monitor 83,Quirúrgico,Fuera de servicio,Aguilera & Asociados S.Com.
+84,Ecógrafo 84,Quirúrgico,Operativo,Inversiones VKFW S.Coop.
+85,Rayos X 85,Quirúrgico,En mantenimiento,Hnos Salas S.L.
+86,Ecógrafo 86,Diagnóstico,Fuera de servicio,Finanzas del Levante S.Coop.
+87,Ecógrafo 87,Quirúrgico,Operativo,Guerrero & Asociados S.Coop.
+88,Ecógrafo 88,Diagnóstico,Operativo,Vidal Huerta Gelabert S.L.L.
+89,Monitor 89,Diagnóstico,Operativo,Infraestructuras Herrero S.A.
+90,Ecógrafo 90,Quirúrgico,Operativo,Manufacturas TNC S.L.N.E
+91,Monitor 91,Quirúrgico,Operativo,Supermercados Ortega & Asociados S.Coop.
+92,Monitor 92,Quirúrgico,Operativo,Moreno y Marí S.L.U.
+93,Ecógrafo 93,Diagnóstico,Operativo,Bou y Figueras S.L.N.E
+94,Monitor 94,Diagnóstico,Fuera de servicio,Pacífica Asenjo Elorza S.L.
+95,Rayos X 95,Diagnóstico,En mantenimiento,Perea y asociados S.Coop.
+96,Monitor 96,Diagnóstico,Fuera de servicio,Logística XQX S.Com.
+97,Monitor 97,Diagnóstico,Operativo,Instalaciones Cózar & Asociados S.L.L.
+98,Monitor 98,Quirúrgico,Operativo,Montaña y Cifuentes S.Com.
+99,Ecógrafo 99,Quirúrgico,En mantenimiento,Despacho HY S.Coop.
+100,Monitor 100,Quirúrgico,Fuera de servicio,Suministros Ibérica S.Com.

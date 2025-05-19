@@ -1,0 +1,11 @@
+seguro_id,nombre_seguro,tipo_seguro,cobertura_porcentaje
+1,Seguro 1,Público,80
+2,Seguro 2,Público,80
+3,Seguro 3,Privado,90
+4,Seguro 4,Público,70
+5,Seguro 5,Público,100
+6,Seguro 6,Privado,70
+7,Seguro 7,Público,90
+8,Seguro 8,Público,70
+9,Seguro 9,Privado,80
+10,Seguro 10,Privado,100
