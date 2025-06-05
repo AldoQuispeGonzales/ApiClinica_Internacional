@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from Routers import routers_clinica
+from routers import routers_clinica
 
 app = FastAPI(
     title="API Internacional - Clínica",
