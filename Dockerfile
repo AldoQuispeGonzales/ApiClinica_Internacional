@@ -1,19 +1,22 @@
 FROM python:3.11-slim
 
-# Set environment variables
+# Evita archivos .pyc y salida con buffer
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
-# Set work directory
+# Directorio de trabajo
 WORKDIR /code
 
-# Install dependencies
+# Instala dependencias
 COPY requirements.txt .
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir --upgrade pip
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy project
+# Copia el código fuente
 COPY ./App ./App
 
-# Start FastAPI
-CMD ["uvicorn", "App.main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Puerto requerido por Render
+EXPOSE 10000
+
+# Comando para arrancar la app
+CMD ["uvicorn", "App.main:app", "--host", "0.0.0.0", "--port", "10000"]
