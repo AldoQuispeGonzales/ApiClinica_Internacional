@@ -1,18 +1,18 @@
 services:
   - type: web
-    name: api-clinica
-    env: docker
+    name: fastapi-api
+    runtime: docker
+    region: oregon  # Puedes cambiar la región
     plan: free
-    branch: main
-    region: oregon
-    dockerfilePath: ./Dockerfile
     envVars:
       - key: DATABASE_URL
         fromDatabase:
-          name: postgres-api
+          name: api-db
           property: connectionString
+    dockerContext: .
+    dockerfilePath: ./Dockerfile
 
 databases:
-  - name: postgres-api
-    databaseName: clinica_db
-    user: clinica_user
+  - name: api-db
+    region: oregon
+    plan: free
